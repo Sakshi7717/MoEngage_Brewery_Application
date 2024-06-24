@@ -1,2 +1,3 @@
 #Brewery Application Project
-This a Brewery Application Project data will stored in database
+
+This is a Brewery Application Project Brewery data will stored in database.
